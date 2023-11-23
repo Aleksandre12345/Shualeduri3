@@ -85,6 +85,7 @@ let validation = /^[0-9]+$/;
     });
     
     Button.addEventListener("click", function () {
+        percent = 0
         angarishi.value = "";
         secondinput.value = "";
         custom.value = "";
