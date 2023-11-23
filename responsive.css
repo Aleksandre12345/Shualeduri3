@@ -1,0 +1,83 @@
+@media (width > 1440px) {
+    .container {
+        display: flex;
+        width: 920px;
+        height: 481px;
+        border-radius: 25px;
+    }
+    .firstinput {
+        width: 379px;
+        height: 48px;
+    }
+    .boxes {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 20px;
+    }
+    .box {
+        width: 117px;
+        height: 48px;
+    }
+    .secondinput {
+        width: 379px;
+        height: 48px;
+    }
+    .greenbox {
+        width: 413px;
+        height: 417px;
+    }
+    .greentxtbutton {
+        width: 333px;
+        height: 48px;
+        margin-left: 40px;
+        margin-top: 80px;
+    }
+    .greenboxtxt1 {
+        margin-top: 60px;
+    }
+    .greenboxtxt1,.greenboxtxt2 {
+        color: white;
+        font-size: 16px;
+        font-family: 'Space Mono';
+        font-weight: 700;
+        margin-left: 35px;  
+    }
+    .greenboxnum1 {
+        margin-top: 35px;
+        color: #26C2AE;
+        font-size: 48px;
+        font-family: 'Space Mono';
+        font-weight: 700;
+        margin-left: -180px;
+    }
+    .greenboxnum2 {
+        margin-top: -30px;
+        color: #26C2AE;
+        font-size: 48px;
+        font-family: 'Space Mono';
+        font-weight: 700;
+        margin-left: -180px;
+    }
+    .selecttip {
+        margin-top: 35px;
+    }
+    .people {
+        margin-top: 35px;
+    }
+    .custom {
+        width: 115px;
+    }
+    .cant {
+        color: #E17457;
+        font-size: 15px;
+        font-family: 'Space Mono';
+        font-weight: 700;
+        margin-right: 7px;
+        margin-top: 31px;
+        margin-bottom: -1px;
+    }
+    .people {
+        margin-top: 30px;
+    }
+}
+
