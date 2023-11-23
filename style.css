@@ -50,7 +50,7 @@ body {
     border-radius: 5px;
 }
 .firstinput:hover {
-    border: 2px solid #26C2AE;
+    outline: 2px solid #26C2AE;
     cursor: pointer;
     background-color: white;
 }
@@ -103,7 +103,7 @@ body {
     border-radius: 5px;
 }
 .custom:hover {
-    border: 2px solid #26C2AE;
+    outline: 2px solid #26C2AE;
     cursor: pointer;
     background-color: white;
 }
@@ -141,7 +141,7 @@ body {
     border-radius: 5px;
 }
 .secondinput:hover {
-    border: 2px solid #E17052;
+    outline: 2px solid #E17052;
     cursor: pointer;
     background-color: white;
 }
