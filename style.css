@@ -234,9 +234,9 @@ h3 span {
 }
 .Outline{
     border-radius: 5px;
-    border: 2px solid #26C2AE;
+    outline: 2px solid #26C2AE;
 }
 .Outline1{
     border-radius: 5px;
-    border: 2px solid #E17052;
+    outline: 2px solid #E17052;
 }
